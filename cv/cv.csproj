@@ -114,6 +114,7 @@
     <Content Include="Views\education\education.cshtml" />
     <Content Include="Views\certificate\certificate.cshtml" />
     <Content Include="Views\language\language.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
